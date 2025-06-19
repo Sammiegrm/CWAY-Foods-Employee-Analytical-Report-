@@ -1,5 +1,7 @@
 # CWAY-Foods-Employee-Analytical-Report-
 The 2024 CWAY Employee Analytical Report highlights key disparities and strengths across departments, demographics, and pay zones. While Sales and married employees demonstrate high satisfaction and balance, IT/IS staff and divorced individuals face challenges.
+
+_This particular data was redesigned with power BI tool, I already worked on it with Microsoft Excel_
 ![Task 33A_CWAY Power BI](https://github.com/user-attachments/assets/cd7c1ea2-38db-4ef3-8cdb-b40e4e5a8c02)
 
 **📊 Key Observations:**
